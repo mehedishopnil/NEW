@@ -8,12 +8,24 @@ body {
 
 }
 h1{
-  font-size: 50px;
+  color:#007d9c;
+  font-size: 4.125rem;
   margin: 0;
   margin-bottom: 10px;
   font-family: 'Satisfy', cursive;
+}
+h2{
+  color:#007d9c;
+
+}
+h3{
+  color:#007d9c;
+
+}
 
 
+.subtitel{
+  font-size: 2rem;
 }
 p{
   margin: 0;
@@ -50,8 +62,12 @@ p{
 
 
 .footer{
+
   font-family: 'Roboto', sans-serif;
-  font-size:15px;
+  font-size:12px;
   background-color:#364f6b;
   padding:20px;
+}
+.footer_c{
+  color: white;
 }
