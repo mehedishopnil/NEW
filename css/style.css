@@ -4,7 +4,12 @@ body {
     margin:0;
     text-align: center;
     font-family: 'Original Surfer', cursive;
+}
 
+hr{
+  border-top: 10px dotted;
+  width:45px;
+  color: #3d84a8;
 
 }
 h1{
@@ -21,6 +26,10 @@ h2{
 h3{
   color:#007d9c;
 
+}
+
+.mehedi{
+  padding: 30px;
 }
 a{
   text-decoration: none;
@@ -58,7 +67,28 @@ p{
   font-size: 20px;
   padding: 10px;
 }
+.contact{
+  padding: 50px;
+}
 
+.bio{
+  text-align: left;
+  padding:45px;
+  margin: 100 auto 100 auto;
+  line-height:2;
+
+}
+.study-status{
+  padding:30px;
+}
+
+.work-exprience{
+  padding: 30px;
+}
+
+.my_skills_and_hobbies{
+  padding: 30px;
+}
 
 
 
