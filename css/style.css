@@ -70,6 +70,20 @@ p{
 .contact{
   padding: 50px;
 }
+.contact-me{
+  color:white;
+}
+.contact-button{
+
+  background-color: #10b3d6;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 
 .bio{
   text-align: left;
@@ -88,6 +102,16 @@ p{
 
 .my_skills_and_hobbies{
   padding: 30px;
+}
+.my-skills{
+  background-color: #10b3d6;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 
