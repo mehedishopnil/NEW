@@ -22,7 +22,10 @@ h3{
   color:#007d9c;
 
 }
-
+a{
+  text-decoration: none;
+  color: blue;
+}
 
 .subtitel{
   font-size: 2rem;
