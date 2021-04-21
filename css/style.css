@@ -148,7 +148,7 @@ p{
 .footer{
 
   font-family: 'Roboto', sans-serif;
-  font-size:12px;
+  font-size:10px;
   background-color:#364f6b;
   padding:30px;
 
@@ -156,6 +156,7 @@ p{
 .social-media{
   font-family: 'Roboto', sans-serif;
   font-size:14px;
+  font-weight: bold;
   background-color:#364f6b;
   padding:20px;
   color: white;
