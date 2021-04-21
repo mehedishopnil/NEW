@@ -51,14 +51,15 @@ p{
 .top-cloud{
   position: relative;
   left: 150px;
-  padding-top: 50PX;
-}
-.bottom-cloud{
+  padding-top: 50PX;}
+
+.bottom-cloud {
   position: absolute;
   left: 500px;
 }
 
 .my-image{
+  border-radius: 50%;
   height: 350px;
   width: 290px;
 }
@@ -85,15 +86,44 @@ p{
   font-size: 16px;
 }
 
-.bio{
-  text-align: left;
+.bio{text-align: left;
   padding:45px;
   margin: 100 auto 100 auto;
   line-height:2;
 
 }
 .study-status{
-  padding:30px;
+    margin: 15%;
+    margin-left: 35.5%;
+    margin-right: 22px;
+    width: 37%;
+    height: auto;
+    line-height: 2;
+
+}
+.study{
+  text-align: left;
+  margin:auto;
+  padding: 0;
+  margin-left: 10%;
+
+  width: 65%;
+  height: auto;
+
+}
+.graduate_hat{
+  width:45%;
+  margin: 0;
+  padding:0;
+  margin-top: 40px;
+  float: left;
+  clear: right;
+}
+.list{
+
+  list-style: none;
+  font-size: 20px;
+
 }
 
 .work-exprience{
@@ -115,18 +145,26 @@ p{
 }
 
 
-
-
-
-
-
 .footer{
 
   font-family: 'Roboto', sans-serif;
   font-size:12px;
   background-color:#364f6b;
+  padding:30px;
+
+}
+.social-media{
+  font-family: 'Roboto', sans-serif;
+  font-size:14px;
+  background-color:#364f6b;
   padding:20px;
+  color: white;
+  margin: 30px;
 }
 .footer_c{
   color: white;
+  margin:auto;
+  padding: 1%;
+  line-height: 1;
+  margin-top: 27px;
 }
