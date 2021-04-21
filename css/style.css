@@ -101,6 +101,21 @@ p{
     line-height: 2;
 
 }
+
+
+.work-exprience{
+
+  font-size: 20px;
+  color: #116479;
+  text-align: left;
+  margin: auto;
+  width: 50%;
+  margin-left: 35%;
+
+
+}
+
+
 .study{
   text-align: left;
   margin:auto;
@@ -121,8 +136,12 @@ p{
 }
 .list{
 
-  list-style: none;
+
   font-size: 20px;
+  color: #116479;
+  text-align: left;
+  margin: auto;
+
 
 }
 
